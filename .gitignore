@@ -1,0 +1,57 @@
+# Python bytecode and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+env.bak/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.tmp
+*.cache
+*.bak
+
+# Data files (optional – exclude large or sensitive datasets)
+*.csv
+*.tsv
+*.json
+*.xls
+*.xlsx
+*.db
+*.sqlite3
+
+# Pytest / test coverage
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+*.py,cover
+coverage.xml
+nosetests.xml
+test-results.xml
+
+# Build artifacts and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter runtime
+*.nbconvert.ipynb
