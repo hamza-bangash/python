@@ -1,10 +1,10 @@
-# 🐍 Python Practice Repository
+#  Python Practice Repository
 
 Welcome to my Python practice repository This repo contains my ongoing practice of Python programming, data cleaning , data manipulation, and data visualization using libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### Python Core
 ### Pandas
