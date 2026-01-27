@@ -1,24 +1,23 @@
-#  Python Practice Repository
+# Python Practice & Problem Solving
 
-Welcome to my Python practice repository This repo contains my ongoing practice of Python programming, data cleaning , data manipulation, and data visualization using libraries like **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
+This repository contains my daily Python practice focused on improving problem-solving skills and Python syntax.
 
----
+I solve problems regularly from platforms like LeetCode and Codeforces to build strong fundamentals in algorithms, data structures, and logical thinking.
 
-## Topics Covered
+## What I Practice
+- Core Python  
+- Data Structures & Algorithms  
+- LeetCode problems  
+- Codeforces practice  
+- Basic data handling with Pandas, NumPy, Matplotlib  
 
-### Python Core
-### Pandas
-### NumPy
-### Matplotlib & Seaborn
+## Goal
+The goal of this repo is consistency and improvement  writing clean Python, understanding edge cases, and getting better at breaking down problems.
 
----
-
-## Let's Connect  
-Feel free to connect or discuss ideas
-
+## Connect
 - Email: p229222@pwr.nu.edu.pk  
-- [LinkedIn](https://linkedin.com/in/hamza-bangash)  
-- [Kaggle](https://www.kaggle.com/hamzabangash1)
+- LinkedIn: https://linkedin.com/in/hamza-bangash  
+- Kaggle: https://www.kaggle.com/hamzabangash1  
 
 
 
